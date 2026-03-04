@@ -1,7 +1,7 @@
 ### Hi there, I'm Luigi! 👋
 
 I am a Computer Science Student at the **University of Naples Federico II (UniNA)** 🇮🇹.
-I have a passion for building software and solving problems. Currently, I am strengthening my foundations in Software Engineering and Algorithms.
+
 
 ---
 
