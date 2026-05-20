@@ -15,11 +15,4 @@ I am a Computer Science Student at the **University of Naples Federico II (UniNA
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-####  I'm currently focusing on
-*  **AI & Machine Learning:** Exploring the foundations of intelligent systems.
-*  **Software Engineering:** Design Patterns, Object-Oriented Analysis & Clean Code.
-*  **Algorithms:** Improving efficiency and problem-solving skills.
-*  **Web Development:** Building responsive and modern web apps.
-*  **Operating Systems:** System Programming in C (Processes, IPC) & Scripting (Bash, awk, sed).
-
 ---
