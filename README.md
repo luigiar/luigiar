@@ -1,6 +1,6 @@
 ### Hi there, I'm Luigi! 👋
 
-I am a Computer Science Student at the **University of Naples Federico II (UniNA)** 🇮🇹.
+I am a Computer Science Student at the **University of Naples Federico II**
 
 
 ---
